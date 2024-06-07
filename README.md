@@ -3,8 +3,8 @@
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting aws solutions architect
-- 🌱 I’m currently learning AWS and how to clean the mess of my daily routine
+- 🔭 I’m currently working on getting my fundamentals right.
+- 🌱 I’m currently learning cybersecurity and how to clean the mess of my daily routine
 - 👯 I’m looking to collaborate on any golang project as I am learning it.
 - 🤔 I’m looking for help with how to avoid procastination
 - 💬 Ask me about source code reviews and web application security
